@@ -4,7 +4,7 @@
 This project performs a comprehensive analysis of sales data to uncover trends, high-performing regions, categories, and sub-categories. It demonstrates data cleaning, aggregation, visualization, and business insight generation.
 
 ## Dataset
-- Source: [Insert dataset source or description]
+- Source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 - Key Columns: Order Date, Region, Category, Sub-Category, Sales, Quantity
 
 ## Tools & Skills
